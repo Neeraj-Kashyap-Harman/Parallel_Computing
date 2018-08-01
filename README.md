@@ -7,7 +7,7 @@ Parallel Computing Codes
 
 3] Matrix vector multiplication works well
 
-4] Matrix Vector multiplication by file is remainig to code
+4] Matrix Vector multiplication by file (THIS IS REMAINING TO CODE)
 
 matrix.txt and vector.txt are the input files.
 
