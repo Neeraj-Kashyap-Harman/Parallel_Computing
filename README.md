@@ -2,8 +2,11 @@
 Parallel Computing Codes 
 
 1]Hello World Works Properly
+
 2]Addition of N Numbers (Do odd number of processors ,if condition remaining)
+
 3] Matrix vector multiplication works well
+
 4] Matrix Vector multiplication by file is remainig to code
 
 matrix.txt and vector.txt are the input files.
