@@ -6,6 +6,9 @@ Parallel Computing Codes
 3] Matrix vector multiplication works well
 4] Matrix Vector multiplication by file is remainig to code
 
+matrix.txt and vector.txt are the input files.
+
+
 
 To compile a file:
 mpicc File_Matrix_Multiplcation.c -o File_Matrix_Multiplcation
