@@ -17,6 +17,11 @@ int main(int argc,char **argv)
 	endSize=startSize+chunkSize;
 
 		
+				if (myrank==size-1)
+			{
+				endSize=noOfElements;				
+			}	
+					
 	for (i=startSize+1;i<=endSize;i++)
 		{
 		
