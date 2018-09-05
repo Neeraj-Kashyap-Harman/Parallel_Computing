@@ -13,6 +13,8 @@ matrix.txt and vector.txt are the input files.
 5] Calculating the error (Works well)
 graph.txt contains the points for plotting the graph. 
 
+6] Quicksort IMplemetation
+Work remaining for send and recv.
 
 
 
