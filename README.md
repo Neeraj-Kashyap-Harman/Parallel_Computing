@@ -23,3 +23,8 @@ mpicc File_Matrix_Multiplcation.c -o File_Matrix_Multiplcation
 
 To run a file:
 mpirun -np 4 File_Matrix_Multiplcation
+
+
+
+(For Gaussian)
+https://www.cs.rutgers.edu/~venugopa/parallel_summer2012/ge.html
