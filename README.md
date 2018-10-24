@@ -3,8 +3,9 @@ Parallel Computing Codes
 
 1]Hello World Works Properly
 
-2]Addition of N Numbers (Do odd number of processors ,if condition remaining)
-
+2]Addition of N Numbers
+DONE
+  
 3] Matrix vector multiplication works well
 
 4] Matrix Vector multiplication by file (THIS IS REMAINING TO CODE)
@@ -16,7 +17,11 @@ graph.txt contains the points for plotting the graph.
 6] Quicksort IMplemetation
 Work remaining for send and recv.
 
+7] Cannon's Algorithm 
+DONE
 
+8] Gauss Elimination
+REMAINING
 
 To compile a file:
 mpicc File_Matrix_Multiplcation.c -o File_Matrix_Multiplcation
